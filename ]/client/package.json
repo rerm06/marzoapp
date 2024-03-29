@@ -1,0 +1,17 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:4000",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.17.0",
+    "axios": "^1.6.8",
+    "dotenv-webpack": "^8.0.1",
+    "react-router-dom": "^6.22.3",
+    "react-scripts": "^3.0.1",
+    "webpack-dev-server": "^5.0.3"
+  }
+}
